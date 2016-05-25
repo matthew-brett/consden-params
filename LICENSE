@@ -1,0 +1,24 @@
+#####################################
+LICENSE for condsen-params repository
+#####################################
+
+The image (``.nii``) files in the ds114 directory are processed versions of
+files from the ``ds114`` dataset in the OpenFMRI project:
+
+* https://openfmri.org/dataset/ds000114
+
+The files in the ``sub0??/model`` subdirectories are the original files from
+the ds114 dataset.
+
+The original OpenFMRI files are covered by a Public Domain Dedication and
+License version 1.0 : http://opendatacommons.org/licenses/pddl/1.0/.
+
+See:
+
+* https://github.com/matthew-brett/consden
+
+for the processing scripts that generated the files.
+
+I (Matthew Brett) generated these files, and release them under the Public
+Domain Dedication and License version 1.0 :
+http://opendatacommons.org/licenses/pddl/1.0/.
